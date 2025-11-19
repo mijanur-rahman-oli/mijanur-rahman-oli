@@ -1,5 +1,7 @@
+![logo](https://github.com/mijanur-rahman-oli/mijanur-rahman-oli/blob/main/githubBanner.png)
 <h1 align="center">Hi, I'm Mijanur Rahman</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
