@@ -2,6 +2,13 @@
 <h1 align="center">Hi, I'm Mijanur Rahman</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
+## About me:
+- 🔭 I’m currently working as a Website Manager [on a LMS website Name Meson](https://www.mesonbd.com)
+
+- 🌱 I’m currently learning **next.js , express.js and mySQL**
+
+- 📫 How to reach me **sheikhmijanurrahmanoli@gmail.com**
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
