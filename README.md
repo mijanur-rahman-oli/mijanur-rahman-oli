@@ -1,6 +1,5 @@
-![logo](https://github.com/mijanur-rahman-oli/mijanur-rahman-oli/blob/main/githubBanner.png)
 <h1 align="center">Hi, I'm Mijanur Rahman</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 
 <div align="center">
