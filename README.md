@@ -1,7 +1,7 @@
   <br/>
   <h1>Hi, I'm Mijanur Rahman</h1>
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%7C+React+Enthusiast;BSc+in+CSE+@pedrotechnologies;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines= Fullstack+Developer+%7C+React+Enthusiast;BSc+in+CSE;" alt="Typing SVG" />
   <br/>
 
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
