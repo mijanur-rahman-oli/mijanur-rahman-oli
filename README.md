@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Mijanur Rahman</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+</p>
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -12,9 +16,9 @@
 
 ## ╰┈➤ About me:
 
-- I’m currently working as a Website Manager on a LMS website - [Meson](https://www.mesonbd.com)
+- I’m currently working as a Cheif Technology Officer on a EdTech company - [Meson](https://www.mesonbd.com)
 
-- I’m currently learning **next.js , express.js.**
+- I’m currently exploring **next.js , typescript.**
 
 - Ask me about **javascript, react and node.js**
 
