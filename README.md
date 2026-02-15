@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm Mijanur Rahman</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-</p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mijanur-rahman-oli/mijanur-rahman-oli/main/github%20banner" alt="Mijanur Rahman Banner" width="100%">
+  <br/>
+  <h1>Hi, I'm Mijanur Rahman</h1>
+  <h3>A passionate Web Developer from Bangladesh</h3>
+  <br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
