@@ -2,19 +2,11 @@
   <h1>Hi, I'm Mijanur Rahman</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%7C+React+Enthusiast;BSc+in+CSE;" alt="Typing SVG" />
-  
-  <br/><br/>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-</div>
----
+   <br/><br/>
 
 ## ╰┈➤ About me:
 
-- I’m currently working as a Chief Technology Officer at an EdTech company - [Meson](https://www.mesonbd.com)
+- I’m currently working as a Web Development Specialist at - [Meson](https://www.mesonbd.com)
 - I’m currently exploring **Next.js & TypeScript**
 - Ask me about **JavaScript, React, and Node.js**
 - How to reach me: **sheikhmijanurrahmanoli@gmail.com**
