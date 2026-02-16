@@ -1,15 +1,16 @@
 <div align="center">
   <h1>Hi, I'm Mijanur Rahman</h1>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%7C+React+Enthusiast;BSc+in+CSE;" alt="Typing SVG" />
-   <br/><br/>
+</div>
+
+<br/>
 
 ## ╰┈➤ About me:
 
-- I’m currently working as a Web Development Specialist at - [Meson](https://www.mesonbd.com)
-- I’m currently exploring **Next.js & TypeScript**
-- Ask me about **JavaScript, React, and Node.js**
-- How to reach me: **sheikhmijanurrahmanoli@gmail.com**
+- 🔭 I’m currently working as a Web Development Specialist at **[Meson](https://www.mesonbd.com)**
+- 🌱 I’m currently exploring **Next.js & TypeScript**
+- 💬 Ask me about **JavaScript, React, and Node.js**
+- 📫 How to reach me: **sheikhmijanurrahmanoli@gmail.com**
 
 ---
 
@@ -18,14 +19,15 @@
 
 ## 📊 GitHub Stats:
 <img src="https://nirzak-streak-stats.vercel.app/?user=mijanur-rahman-oli&theme=dark&hide_border=false" />
-</p>
 
 ## Connect With Me:
 <p align="left">
-<a href="https://linkedin.com/in/mijanur-rahman-oli-3a38702b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mijanur-rahman-oli" height="30" width="40" /></a>
-<a href="https://fb.com/mijanur.rahman.oli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mijanur.rahman.oli" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mijanur.rahman.oli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mijanur.rahman.oli" height="30" width="40" /></a>
-<a href="https://discord.gg/mijanur.oli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mijanur.oli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mijanur-rahman-oli-3a38702b3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mijanur-rahman-oli" height="30" width="40" /></a>
+<a href="https://fb.com/mijanur.rahman.oli" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mijanur.rahman.oli" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mijanur.rahman.oli" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mijanur.rahman.oli" height="30" width="40" /></a>
+<a href="https://discord.gg/mijanur.oli" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mijanur.oli" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mijanur-rahman-oli&label=Profile%20views&color=0e75b6&style=flat" alt="mijanur-rahman-oli" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mijanur-rahman-oli&label=Profile%20views&color=0e75b6&style=flat" alt="mijanur-rahman-oli" /> 
+</p>
