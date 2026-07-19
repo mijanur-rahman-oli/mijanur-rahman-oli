@@ -2,18 +2,18 @@
   <img src="./github_cover.png" alt="cover" width="100%" />
 </div>
 
-# Hi, I'm Mijanur Rahman Oli 👋
-![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&fontStyle=italic&pause=1000&color=61DAFB&size=20&width=550&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Building+AI-powered+tools+%26+products;BSc+in+CSE)
+# Hi, I'm Mijanur Rahman Oli
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&fontStyle=italic&pause=1000&color=61DAFB&size=18&width=420&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Building+AI-powered+tools+%26+products;BSc+in+CSE" alt="Typing Effect" style="max-width:100%;height:auto;" />
 
 ## About Me
 
-I am a results-oriented **Full Stack Developer** bringing 2+ years of professional software engineering experience. My passion lies in eliminating architectural complexity with clean, type-safe, business-driven codebases built to handle enterprise demands. 
+I'm a Full Stack Developer with 2+ years of experience building scalable, maintainable web applications using modern technologies.
 
-- 💼 **Professional Track:** Proven history delivering technical value, including a Software Developer Internship at **Itransition** and driving high-level operations and system architecture at **Meson**.
-- 🔭 **Currently Building:** High-compliance enterprise SaaS infrastructure, scalable multi-tenant architectures, and real-world productions using the modern stack: **Next.js**, **TypeScript**, and **PostgreSQL**.
-- 🌱 **Deepening Knowledge:** Transitioning toward advanced **AI Engineering** specifically focusing on AI agent architectures, orchestration workflows, and complex system design.
-- 💬 **Expertise:** Ask me about Next.js optimizations, type safety, database schema design, and seamless third-party API integrations.
-- 📫 **Get in Touch:** Drop me a line at [sheikhmijanurrahmanoli@gmail.com](mailto:sheikhmijanurrahmanoli@gmail.com)
+- 💼 **Where I've worked:** Interned as a Software Developer at **Itransition**, then helped drive engineering and system architecture at **Meson**.
+- 🔭 **Currently building:** SaaS platforms and multi-tenant applications for growing businesses.
+- 🌱 **Learning:** How to design and build intelligent, AI-driven systems.
+- 💬 **Happy to talk about:** Application performance, clean architecture, or integrating third-party services.
+- 📫 **Say hi:** [sheikhmijanurrahmanoli@gmail.com](mailto:sheikhmijanurrahmanoli@gmail.com)
 ---
 
 ## Featured Projects
@@ -40,7 +40,6 @@ I am a results-oriented **Full Stack Developer** bringing 2+ years of profession
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
       </p>
       <p>Full-stack MERN application built with JavaScript.</p>
       <p align="center">
@@ -56,7 +55,6 @@ I am a results-oriented **Full Stack Developer** bringing 2+ years of profession
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
       </p>
       <p>Full-stack MERN application built with JavaScript.</p>
       <p align="center">
@@ -96,22 +94,21 @@ I am a results-oriented **Full Stack Developer** bringing 2+ years of profession
 
 ## GitHub Activity
 
-<div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mijanur-rahman-oli&custom_title=Contribution%20Graph&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area_color=61DAFB&area=true&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mijanur-rahman-oli&custom_title=Contribution%20Graph&theme=minimal&area=true&hide_border=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mijanur-rahman-oli&custom_title=Contribution%20Graph&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area_color=61DAFB&area=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mijanur-rahman-oli&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area_color=61DAFB&area=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mijanur-rahman-oli&theme=minimal&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mijanur-rahman-oli&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area_color=61DAFB&area=true&hide_border=true" width="800" />
   </picture>
-</div>
+</p>
 
-<br/>
-
-### Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mijanur-rahman-oli/mijanur-rahman-oli/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mijanur-rahman-oli/mijanur-rahman-oli/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mijanur-rahman-oli/mijanur-rahman-oli/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mijanur-rahman-oli/mijanur-rahman-oli/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mijanur-rahman-oli/mijanur-rahman-oli/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mijanur-rahman-oli/mijanur-rahman-oli/output/github-contribution-grid-snake.svg" width="800" />
+  </picture>
+</p>
 
 ---
 
