@@ -19,6 +19,7 @@ I'm a Full Stack Developer with 2+ years of experience building scalable, mainta
 ## Featured Projects
 
 <table>
+  <!-- Content Row -->
   <tr>
     <td width="33.33%" valign="top">
       <h3 align="center"><a href="https://inventory-system-gold-five.vercel.app/">InventoryOS</a></h3>
@@ -29,10 +30,6 @@ I'm a Full Stack Developer with 2+ years of experience building scalable, mainta
         <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
       </p>
       <p>Inventory & operations platform with Odoo and Salesforce API integration, plus real-time chat via Socket.io.</p>
-      <p align="center">
-        <a href="https://inventory-system-gold-five.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/mijanur-rahman-oli/inventory-system" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </p>
     </td>
     <td width="33.33%" valign="top">
       <h3 align="center"><a href="https://agrobite.bd">Agrobite</a></h3>
@@ -43,27 +40,33 @@ I'm a Full Stack Developer with 2+ years of experience building scalable, mainta
         <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" />
       </p>
       <p>Live production e-commerce food ordering platform managing real-time inventory and transactions.</p>
-      <p align="center">
-        <a href="https://agrobite.bd" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/mijanur-rahman-oli/agrobite-ecommerce" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </p>
     </td>
     <td width="33.33%" valign="top">
-      <h3 align="center"><a href="https://unrivaled-florentine-bff2fc.netlify.app/">ClubSphere</a></h3>
+      <h3 align="center"><a href="https://unrivaled-florentine-bff2fc.netlify.app/">Clubsphere</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
       </p>
       <p>Full-stack MERN platform for managing club activities, events, and memberships.</p>
-      <p align="center">
-        <a href="https://unrivaled-florentine-bff2fc.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/mijanur-rahman-oli/club-sphere-client" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </p>
+    </td>
+  </tr>
+  <!-- Aligned Buttons Row -->
+  <tr>
+    <td align="center" valign="bottom">
+      <a href="https://inventory-system-gold-five.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <a href="https://github.com/mijanur-rahman-oli/inventory-system" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td align="center" valign="bottom">
+      <a href="https://agrobite.bd" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <a href="https://github.com/mijanur-rahman-oli/agrobite-ecommerce" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td align="center" valign="bottom">
+      <a href="https://unrivaled-florentine-bff2fc.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <a href="https://github.com/mijanur-rahman-oli/club-sphere-client" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## Tech Stack
