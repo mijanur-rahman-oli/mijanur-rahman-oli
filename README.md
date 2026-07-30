@@ -14,12 +14,12 @@ I'm a Full Stack Developer with 2+ years of experience building scalable, mainta
 - 🌱 **Learning:** How to design and build intelligent, AI-driven systems.
 - 💬 **Happy to talk about:** Application performance, clean architecture, or integrating third-party services.
 - 📫 **Say hi:** [sheikhmijanurrahmanoli@gmail.com](mailto:sheikhmijanurrahmanoli@gmail.com)
+
 ---
 
 ## Featured Projects
 
 <table>
-  <!-- Content Row -->
   <tr>
     <td width="33.33%" valign="top">
       <h3 align="center"><a href="https://inventory-system-gold-five.vercel.app/">InventoryOS</a></h3>
@@ -51,7 +51,6 @@ I'm a Full Stack Developer with 2+ years of experience building scalable, mainta
       <p>Full-stack MERN platform for managing club activities, events, and memberships.</p>
     </td>
   </tr>
-  <!-- Aligned Buttons Row -->
   <tr>
     <td align="center" valign="bottom">
       <a href="https://inventory-system-gold-five.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -67,6 +66,7 @@ I'm a Full Stack Developer with 2+ years of experience building scalable, mainta
     </td>
   </tr>
 </table>
+
 ---
 
 ## Tech Stack
