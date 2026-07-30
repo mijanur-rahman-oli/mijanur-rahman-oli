@@ -20,7 +20,7 @@ I'm a Full Stack Developer with 2+ years of experience building scalable, mainta
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33.33%" valign="top">
       <h3 align="center"><a href="https://inventory-system-gold-five.vercel.app/">InventoryOS</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
@@ -34,35 +34,33 @@ I'm a Full Stack Developer with 2+ years of experience building scalable, mainta
         <a href="https://github.com/mijanur-rahman-oli/inventory-system" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
     </td>
-    <td width="50%">
+    <td width="33.33%" valign="top">
       <h3 align="center"><a href="https://agrobite.bd">Agrobite</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" />
       </p>
-      <p>Full-stack MERN application built with JavaScript.</p>
+      <p>Live production e-commerce food ordering platform managing real-time inventory and transactions.</p>
       <p align="center">
         <a href="https://agrobite.bd" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
         <a href="https://github.com/mijanur-rahman-oli/agrobite-ecommerce" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="33.33%" valign="top">
       <h3 align="center"><a href="https://unrivaled-florentine-bff2fc.netlify.app/">ClubSphere</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
       </p>
-      <p>Full-stack MERN application built with JavaScript.</p>
+      <p>Full-stack MERN platform for managing club activities, events, and memberships.</p>
       <p align="center">
         <a href="https://unrivaled-florentine-bff2fc.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
         <a href="https://github.com/mijanur-rahman-oli/club-sphere-client" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
