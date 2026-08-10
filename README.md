@@ -7,13 +7,13 @@
 
 ## About Me
 
-I'm a Full Stack Developer with 2+ years of experience building scalable, maintainable web applications using modern technologies.
+I'm a Full Stack Developer with 2+ years of experience designing and building scalable, maintainable web applications using modern technologies.
 
-- 💼 **Where I've worked:** Interned as a Software Developer at **Itransition**, then helped drive engineering and system architecture at **Meson**.
-- 🔭 **Currently building:** SaaS platforms and multi-tenant applications for growing businesses.
-- 🌱 **Learning:** How to design and build intelligent, AI-driven systems.
-- 💬 **Happy to talk about:** Application performance, clean architecture, or integrating third-party services.
-- 📫 **Say hi:** [sheikhmijanurrahmanoli@gmail.com](mailto:sheikhmijanurrahmanoli@gmail.com)
+- **Experience:** Software Developer Intern at **Itransition**; drove engineering and operations at **Meson**
+- **Currently building:** SaaS platforms and multi-tenant applications for growing businesses
+- **Exploring:** Designing and building intelligent, AI-driven systems
+- **Let's talk about:** Application performance, clean architecture, or third-party integrations
+- **Reach me at:** [sheikhmijanurrahmanoli@gmail.com](mailto:sheikhmijanurrahmanoli@gmail.com)
 
 ---
 
@@ -95,7 +95,7 @@ I'm a Full Stack Developer with 2+ years of experience building scalable, mainta
 
 ## GitHub Activity
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mijanur-rahman-oli&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area_color=61DAFB&area=true&hide_border=true"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mijanur-rahman-oli&theme=minimal&area=true&hide_border=true"/>
@@ -103,13 +103,21 @@ I'm a Full Stack Developer with 2+ years of experience building scalable, mainta
   </picture>
 </p>
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mijanur-rahman-oli/mijanur-rahman-oli/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mijanur-rahman-oli/mijanur-rahman-oli/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/mijanur-rahman-oli/mijanur-rahman-oli/output/github-contribution-grid-snake.svg" width="800" />
   </picture>
 </p>
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mijanur-rahman-oli&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mijanur-rahman-oli&theme=default">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mijanur-rahman-oli&theme=default" alt="Top Languages" />
+  </picture>
+</div>
 
 ---
 
