@@ -42,13 +42,12 @@ I'm a Full Stack Developer with 2+ years of experience designing and building sc
       <p>Live production e-commerce food ordering platform managing real-time inventory and transactions.</p>
     </td>
     <td width="33.33%" valign="top">
-      <h3 align="center"><a href="https://unrivaled-florentine-bff2fc.netlify.app/">Clubsphere</a></h3>
+      <h3 align="center"><a href="https://snazzy-cassata-db1745.netlify.app/news">PH Newspaper</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
       </p>
-      <p>Full-stack MERN platform for managing club activities, events, and memberships.</p>
+      <p>News aggregation platform designed for readability and speed. PH-Newspaper delivers a curated reading experience with a focus on clean typography and intuitive navigation.</p>
     </td>
   </tr>
   <tr>
@@ -61,8 +60,8 @@ I'm a Full Stack Developer with 2+ years of experience designing and building sc
       <a href="https://github.com/mijanur-rahman-oli/agrobite-ecommerce" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td align="center" valign="bottom">
-      <a href="https://unrivaled-florentine-bff2fc.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      <a href="https://github.com/mijanur-rahman-oli/club-sphere-client" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://snazzy-cassata-db1745.netlify.app/news" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <a href="https://github.com/mijanur-rahman-oli/ph-newspaper.git" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
