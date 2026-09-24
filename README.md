@@ -93,15 +93,6 @@ I'm a Full Stack Developer with 2+ years of experience designing and building sc
 ---
 
 ## GitHub Activity
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mijanur-rahman-oli&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area_color=61DAFB&area=true&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mijanur-rahman-oli&theme=minimal&area=true&hide_border=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mijanur-rahman-oli&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area_color=61DAFB&area=true&hide_border=true" width="800" />
-  </picture>
-</p>
-
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mijanur-rahman-oli/mijanur-rahman-oli/output/github-contribution-grid-snake-dark.svg" />
